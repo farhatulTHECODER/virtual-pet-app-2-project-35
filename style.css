@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-image: url("giphy-downsized-large.gif");
+}
+canvas{
+  border: 2px solid black;
+  margin-top:80px;
+  margin-left: 500px;
+}
